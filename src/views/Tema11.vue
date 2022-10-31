@@ -5,14 +5,15 @@
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 9
-      h1 Balance de ecuaciones y pasos para balanceo por tanteo
+        span 11
+      h1 Medios de cultivo
+
 
 </template>
 
 <script>
 export default {
-  name: 'Tema9',
+  name: 'Tema11',
   data: () => ({
     // variables de vue
   }),
