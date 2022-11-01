@@ -5,8 +5,7 @@
 
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span
-          i.fas.fa-info
+        span 1
       h1 Alistamiento general y bases conceptuales
 
     p.mb-4 Como se muestra en la figura 1, <b>el proceso de alistamiento de una muestra para su posterior análisis es un proceso muy importante en los análisis químicos en campo y laboratorio, puesto que influye en los resultados que se obtienen para, posteriormente, tomar decisiones de orden económico, ambiental, político y social.</b>
