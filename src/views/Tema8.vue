@@ -122,7 +122,7 @@
               .p-4
                 h4.text-center Sistema Inglés
                 p.text-center aún utilizado en los países anglosajones, principalmente en Estados Unidos. Muchos de ellos lo están intentando reemplazar por el Sistema Internacional de Unidades.
-    p.mb-4 Es así como en Colombia el Instituto Nacional de Metrología ha establecido que en el país se debe utilizar el Sistema Internacional de Unidades (abreviado SI del francés: Le Système International d’Unités), también denominado Sistema Internacional de Medidas; es el nombre que recibe el sistema de unidades que se usa en la mayoría de los países y es la forma actual del sistema métrico decimal.
+    p.mb-4 Es así como en Colombia el Instituto Nacional de Metrología ha establecido que en el país se debe utilizar el Sistema Internacional de Unidades (abreviado SI del francés: Le <em>Système</em> International <em>d’Unités</em>), también denominado Sistema Internacional de Medidas; es el nombre que recibe el sistema de unidades que se usa en la mayoría de los países y es la forma actual del sistema métrico decimal.
 
     .row.justify-content-center.mb-4 
       .col-lg-10

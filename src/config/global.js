@@ -93,7 +93,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Fundamentación Textil',
+        titulo: 'Equipos de laboratorio',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -322,132 +322,209 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Algoestadistica. (2011, 23 abril). Notación científica. Probabilidad y Estadística.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://pedroprobabilidadyestadistica.blogspot.com/2011/04/notacion-cientifica.html',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Comisión Europea. (2021). Métodos de muestreo para los distintos tipos de muestras - SAMANCTA.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://ec.europa.eu/taxation_customs/dds2/SAMANCTA/ES/GeneralProcedures/SamplingMethods_ES.htm',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Facultad de Ingeniería de LUZ. (2018). Cifras Significativas - Física I. Laboratorio de Física I. Física I. Laboratorio de Física I.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://sites.google.com/site/laboratoriodefisicaifiluz/practicas-de-laboratorio/practica-no-1/cifras-significativas',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Instituto Nacional de Salud. (2011). Manual de instrucciones para la toma, preservación y transporte de muestras de agua de consumo para análisis de laboratorio. INS.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.ins.gov.co/sivicap/Documentacin SIVICAP/2011 Manual toma de muestras agua.pdf',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'M. J. (2019, 7 enero). Molaridad y molalidad. La Guía de Química.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://quimica.laguia2000.com/general/unidades-de-concentracion-parte-1',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Raffino, M. (2020, 23 julio). Microorganismo - Concepto, tipos, características y ejemplos. Concepto.de',
+      link: 'https://concepto.de/microorganismo/',
+    },
+    {
+      referencia:
+        'Salgado, S. (2018). La elección del método de análisis: importancia e impacto [Trabajo de grado, Universidad de Sevilla, Sevilla]. Facultad de Farmacia.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://idus.us.es/bitstream/handle/11441/82149/SALGADO%20GONZ%C3%81LEZ%2C%20SARA.pdf?sequence=1&isAllowed=y#:~:text=Al%20elegir%20un%20m%C3%A9todo%2C%20se,costo%20(Harvey%2C%202016)',
+    },
+    {
+      referencia:
+        'Universidad de Panamá. (s. f.). Sistema Internacional. Cursos de Química Analítica.',
+      link:
+        'https://alkemist.jimdofree.com/qm-112/sem-2-sistema-internacional/',
+    },
+    {
+      referencia:
+        'Universidad Miguel Hernández de Elche. (s. f.). Preparación de Medios de Cultivo. Catálogo de Prácticas de Microbiología. ',
+      link:
+        'https://mobile.sites.google.com/a/goumh.umh.es/practicas-de-microbiologia/indice/preparacion-de-medios-de-cultivo?tmpl=%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F&showPrintDialog=1',
+    },
+    {
+      referencia:
+        'Universidad Politécnica de Cartagena. (2017). Toma y tratamiento de muestras. ',
+      link: 'http://www.upct.es/~minaeees/toma_tratamiento_muestras.doc',
+    },
+    {
+      referencia: 'UNPSJB. (2015). Química. Guía de laboratorio Nº1. UNPSJB.',
+      link:
+        'http://www.ing.unp.edu.ar/asignaturas/quimica/practicos_de_laboratorio_pdf/lab1.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Aguas residuales',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Aguas que contienen residuos líquidos o materias sólidas evacuadas como desechos (WMO, 2012). Las aguas residuales son cualquier tipo de agua cuya calidad está afectada negativamente por la influencia antropogénica. Las aguas residuales incluyen las aguas usadas, domésticas, urbanas, y los residuos líquidos industriales o mineros eliminados, o las aguas que se mezclaron con las anteriores (aguas pluviales o naturales) (IDEAM, s.f.).',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Almacenamiento',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Representa el proceso de recolección y acumulación de residuos sólidos en el sitio de generación de los diferentes sectores de la producción. Implica la tenencia de residuos peligrosos por un período temporario al final del cual estos serán tratados, dispuestos o almacenados en otro lugar. (ICBF, 2020)',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Análisis físico y químico del agua',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Son aquellos procedimientos de laboratorio que se efectúan a una muestra de agua para evaluar sus características físicas, químicas o ambas (Resolución 2115, 2007, p.1).',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Calidad del agua',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Es el resultado de comparar las características físicas, químicas y microbiológicas encontradas en el agua con el contenido de las normas que regulan la materia (Decreto 1575, 2007, p.1).',
     },
     {
-      termino: 'Moda',
+      termino: 'Emergencia',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Es aquella situación de peligro o desastre o la inminencia del mismo, que afecta el funcionamiento normal de la empresa. Requiere de una reacción inmediata y coordinada de los trabajadores, brigadas de emergencias y primeros auxilios y, en algunos casos, de otros grupos de apoyo, dependiendo de su magnitud. (ICBF, 2020)',
     },
     {
-      termino: 'Diseña',
+      termino: 'Ficha de Seguridad (FDS) u Hoja de datos de Seguridad',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Es una fuente que proporciona información completa sobre una sustancia o mezcla con miras al control y reglamentación de su utilización en el lugar de trabajo. Adicional a lo anterior, aporta información sobre peligros, incluidos aquellos para el medio ambiente, y sobre las medidas de seguridad correspondientes. (ICBF, 2020)',
     },
     {
-      termino: 'DIseño',
+      termino: 'Horizonte del suelo',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Es una capa de suelo o de material de suelo aproximadamente paralela a la  superficie  del  terreno,  que  es  producto  de  la  evolución  y  que  difiere  de  capas  adyacentes  genéticamente relacionadas con ella en propiedades y características físicas, químicas y biológicas. (NTC 3656)',
     },
     {
-      termino: 'Tipología',
+      termino: 'Monitoreo',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Proceso de muestreo del sistema de suministro de agua para consumo humano, que cubre espacio, tiempo y frecuencia en los puntos concertados según norma (IDEAM, s.f.).',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Muestra simple',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Este tipo de muestra se toma en un momento y lugar determinado. Es aplicable en los casos que se sabe, la composición del agua no varía significativamente en el tiempo o lugar, como lo son usualmente para caracterización fisicoquímica de aguas naturales. En este caso, tomar diferentes muestras puntuales puede ser útil para describir el comportamiento a través del espacio y tiempo (NTC 5667-2, 1995).',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Muestras compuestas',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'De acuerdo con el Instituto de Investigaciones Marinas y Costeras [INVEMAR], en el Manual de técnicas analíticas para la determinación de parámetros fisicoquímicos y contaminantes marinos, se describen estas muestras como las que son usadas en su mayoría para vertimientos domésticos e industriales. Debido a la variación horaria de su caudal, son muy utilizadas en el monitoreo de ríos, vertimientos o procesos industriales en línea. Su toma se realiza en un mismo punto, en intervalos de tiempo previamente definidos, y el volumen de cada muestra parcial puede ser constante o variar en función del caudal.  (INVEMAR).',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Muestras integradas',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Este tipo de muestra consiste en la recolección de muestras simples, en diferentes puntos de manera simultánea, que posteriormente son mezcladas. En caso de presentarse variaciones de caudal en los puntos de muestreo, se debe tener en cuenta para que el volumen aportado sea proporcional al caudal medido durante la toma de la muestra. (Instituto de Hidrología, Meteorología y Estudios Ambientales [IDEAM], 2017).',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Muestra disturbada',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Muestras obtenidas del terreno sin ningún intento de preservar la estructura del suelo; es decir las partículas del suelo se recogen “sueltas” y se dejan mover unas en relación con otras (NTC 4113-1).',
+    },
+    {
+      termino: 'Muestra no disturbada',
+      significado:
+        'Muestras obtenidas del terreno usando un método diseñado para preservar la estructura del suelo; es decir, se usa equipo de muestreo especial, de tal forma que no se deja que las partículas y los vacíos cambien con respecto a la distribución existente en el terreno antes del muestreo. (NTC 4113-1).',
+    },
+    {
+      termino: 'Perfil del suelo',
+      significado:
+        'Exposición vertical de horizontes de un suelo individual que son el resultado de la edafogénesis durante el período de formación del suelo (NTC 3656).',
+    },
+    {
+      termino: 'Suelo contaminado',
+      significado:
+        'Es aquel que, por acción natural y principalmente antrópica, recibe sustancias extrañas de tipo sólido, líquido o gaseoso, que limitan, o pueden limitar, el crecimiento de las plantas y afectan desfavorablemente la biota edáfica, la vida animal y la salud humana. (NTC 3656).',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Factores que influyen en la representatividad',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'La Prensa Austral. (2020, 12 julio). Trabajador con graves quemaduras químicas y su lucha por volver a ver. ',
+      tipo: 'Artículo',
+      link:
+        'https://archivo.laprensaaustral.cl/titular1/trabajador-con-graves-quemaduras-quimicas-y-su-lucha-por-volver-a-ver/',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Factores que influyen en la representatividad',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Safeplus. (2015, 3 diciembre). BPL / Buenas Prácticas de Laboratorio de la OCDE [Vídeo]. YouTube. ',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/oXwLNsi6tAU',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Factores que influyen en la representatividad',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Superintendencia de Riesgos del Trabajo. (2016, 2 diciembre). El etiquetado según el Sistema Globalmente Armonizado (SGA) [Vídeo]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/lDv9Cptgio8',
+    },
+    {
+      tema: 'Factores que influyen en la representatividad',
+      referencia:
+        'Medicina Laboral. (2018, 21 agosto). ¿Qué es el Sistema Globalmente Armonizado del Decreto 1496 de 2018? [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/rSZ3E7_JChk',
+    },
+    {
+      tema: 'Materiales de laboratorio',
+      referencia:
+        'Ciencias UTP. (2018a, 25 marzo). Laboratorio N°1: Introducción a los materiales y mediciones - Parte 1 [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/KbuSX-iglXA',
+    },
+    {
+      tema: 'Materiales de laboratorio',
+      referencia:
+        'Ciencias UTP. (2018b, marzo 25). Laboratorio N°1: Introducción a los materiales y mediciones - Parte 2 [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/BQ71Al120Vs',
+    },
+    {
+      tema: 'Reactivos y soluciones',
+      referencia:
+        'Echavarria, S. (2012, 28 agosto). Disoluciones Químicas [Vídeo]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://youtu.be/GrQvY70Z-1s',
+    },
+    {
+      tema: 'Factores que afectan la solubilidad',
+      referencia:
+        'Profe en c@sa. (2013, 22 septiembre). Solubilidad [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/6SF8bc1oiIE',
+    },
+    {
+      tema: 'Balance de ecuaciones y pasos para balanceo por tanteo',
+      referencia:
+        'Emmanuel Asesorías. (2017, 24 agosto). Balanceo por tanteo (muchos ejemplos paso a paso) [Vídeo]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/blrrI4LARGo',
     },
   ],
   creditos: {

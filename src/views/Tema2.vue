@@ -124,7 +124,7 @@
     separador 
 
     #t_2_3.titulo-segundo.color-acento-contenido
-      .h2 2.3	Muestreo y análisis en aguas 
+      .h2 2.3	Muestreo y análisis de olores (aire)
 
     p.mb-4 Estas son las resoluciones o referentes normativos vigentes para regular el muestreo y análisis de olores. Se recomienda tomar nota de ellas.
 

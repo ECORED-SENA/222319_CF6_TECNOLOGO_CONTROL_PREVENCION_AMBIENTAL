@@ -177,7 +177,7 @@
                       p.mb-0 El desarrollo de los análisis
                     li 
                       i.fas.fa-check
-                      p.mb-0 El desechado de la muestra (p.51).
+                      p.mb-0 El desechado de la muestra (p.51)
     .row.mb-4
       .col-lg-4
         .sub.p-2

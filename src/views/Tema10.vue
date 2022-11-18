@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 10
-      h1 Sistema internacional de medidas y notación científica 
+      h1 Microorganismos
 
     p.mb-4 En esta sección se verán los microorganismos y sus principales características, tanto sus morfologías como en sus respectivos análisis.
 
@@ -153,7 +153,7 @@
     .row.align-items-center.mb-4
       .col-lg-6
         LineaTiempoD.color-primario
-          .row(numero="1" titulo="Escherichia coli")
+          .row(numero="1" titulo="<em>Escherichia coli</em>")
             .col-md-4.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema10/d1.jpg', alt='Texto que describa la imagen') 
@@ -167,35 +167,35 @@
             .col-md-6
               p Estos microorganismos ocasionan diversas enfermedades. Buena parte de ellas son diarreicas. Se propaga a través de la orina y las heces.
 
-          .row(numero="3" titulo="Streptococcus pneumoniae")
+          .row(numero="3" titulo="<em>Streptococcus pneumoniae</em>")
             .col-md-4.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema10/d3.jpg', alt='Texto que describa la imagen') 
             .col-md-6
               p Son los microbios que causan enfermedades como neumonía, sinusitis u otitis, así como también meningitis.
 
-          .row(numero="4" titulo="Mycobacterium tuberculosis.")
+          .row(numero="4" titulo="<em>Mycobacterium</em> tuberculosis.")
             .col-md-4.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema10/d4.jpg', alt='Texto que describa la imagen') 
             .col-md-6
               p En general, afectan el funcionamiento del hígado y del pulmón, pero tienen la capacidad de enfermar a cualquier órgano del cuerpo. Son microbios muy resistentes al frío.
           
-          .row(numero="5" titulo="Yersinia pestis")
+          .row(numero="5" titulo="<em>Yersinia pestis</em>")
             .col-md-4.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema10/d5.jpg', alt='Texto que describa la imagen') 
             .col-md-6
               p Este microbio, que puede ocasionar peste, habita en los roedores, aunque se transmite a través de pulgas.
           
-          .row(numero="6" titulo="Bacillus cereus.")
+          .row(numero="6" titulo="<em>Bacillus cereus</em>")
             .col-md-4.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema10/d6.jpg', alt='Texto que describa la imagen') 
             .col-md-6
               p Este microorganismo ocasiona intoxicaciones, vómitos, diarrea y náuseas. Habita en alimentos y se caracteriza por reproducirse muy fácilmente.
 
-          .row(numero="7" titulo="Treponema pallidum. ")    
+          .row(numero="7" titulo="<em>Treponema pallidum</em>")    
             .col-md-4.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/tema10/d7.jpg', alt='Texto que describa la imagen') 

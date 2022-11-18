@@ -75,7 +75,7 @@
                       figure
                         img(src='@/assets/curso/tema1/icon1.svg', alt='')
                   .col-lg-10
-                    p.mb-0 Dentro de las posibles operaciones de preparación de muestras, algunos autores, como  Rodríguez, Aguera, Gómez, Martínez y Dolores (2010) diferencian dos fases, la primera de ellas correspondiente a una serie de tratamientos previos de la muestra, y la segunda correspondiente a la propia preparación de la muestra para la medida, según el tipo de analito orgánico o inorgánico
+                    p.mb-0 Dentro de las posibles operaciones de preparación de muestras, algunos autores, como  Rodríguez, Aguera, Gómez, Martínez y Dolores (2010) diferencian dos fases, la primera de ellas correspondiente a una serie de tratamientos previos de la muestra, y la segunda correspondiente a la propia preparación de la muestra para la medida, según el tipo de analito orgánico o inorgánico.
         figcaption Figura 6. Esquema en el que se muestran algunas de las operaciones previas.
     separador
 
@@ -129,19 +129,19 @@
           ul.lista-ul--color
             li 
               i.fas.fa-check
-              p Los elementos de protección personal 
+              p Los elementos de protección personal.
             li 
               i.fas.fa-check
-              p Desmuestre o recolección de la muestra
+              p Desmuestre o recolección de la muestra.
             li 
               i.fas.fa-check
-              p Envasado, conservación y transporte
+              p Envasado, conservación y transporte.
             li 
               i.fas.fa-check
-              p Preparación
+              p Preparación.
             li 
               i.fas.fa-check
-              p Aplicación de la técnica analítica
+              p Aplicación de la técnica analítica.
             li 
               i.fas.fa-check
               p En lo que se refiere al aseguramiento de la calidad y la reproducibilidad de todo el proceso, las cinco etapas acabadas de mencionar influyen de forma diferente.

@@ -134,10 +134,10 @@
                 b.mb-0 Absorción   
                 p.mb-0 Espectrofotometría ultravioleta visible
                 p.mb-0 Espectrofotometría de infrarrojo
-                p.mb-4 Espectrofotometría de microondas
+                p.mb-4 Espectrofotometría de microondas.
                 b.mb-0 Emisión
                 p.mb-0 Espectrofotometría de fluorescencia
-                p.mb-0 Espectrofotometría de fosforescencia
+                p.mb-0 Espectrofotometría de fosforescencia.
               .col-lg-6
                 h5.mb-4 Atómicas:
                 b.mb-0 Absorción   
@@ -147,7 +147,7 @@
                 p.mb-0 Espestroscopía de emisión atómica (llama, arco, chispa, plasma)
                 p.mb-0 Espestroscopía de fluorescencia atómica
                 p.mb-0 Espestroscopía de fluorescencia de rayos X
-                p.mb-0 Espestroscopía de rayos gamma
+                p.mb-0 Espestroscopía de rayos gamma.
           .col-lg-4 
             figure
               img(src='@/assets/curso/tema4/2.jpg', alt='Texto que describa la imagen')
@@ -161,15 +161,15 @@
                 p.mb-0 Turbidimetría
                 p.mb-0 Nefelometría
                 p.mb-0 Espectroscopía
-                p.mb-4 Raman
+                p.mb-4 Raman.
                 h5.mb-4 Basadas en la difracción:
                 p.mb-0 Difracción de rayos X
                 p.mb-0 Difracción de neutrones
-                p.mb-0 Difracción de electrones
+                p.mb-0 Difracción de electrones.
               .col-lg-6
                 h5.mb-4 Basadas en la medida del índice de refracción: 
                 p.mb-0 Refractometría 
-                p.mb-5 Interferometría
+                p.mb-5 Interferometría.
                 h5.mb-0 Basadas en la medida de la actividad óptica:
                 p.mb-0 Polarimetría
                 p.mb-0 Espectropolarimetría
@@ -188,12 +188,12 @@
                 p.mb-0 <b>b. Técnicas Voltamperométricas</b>
                 p.mb-0 i. Voltamperometría de barrido lineal
                 p.mb-0 ii. Voltamperometría de redisolución
-                p.mb-4 iii. Voltamperometría ciclica
+                p.mb-4 iii. Voltamperometría ciclica.
               .col-lg-6
                 h5.mb-4 a. Culombiametría 
                 p.mb-0 i. Culombimetria a potencial constante
                 p.mb-0 ii. Culombimetria a intensidad constante
-                p.mb-0 iii. Electrogravimetría
+                p.mb-0 iii. Electrogravimetría.
           .col-lg-4 
             figure
               img(src='@/assets/curso/tema4/4.jpg', alt='Texto que describa la imagen')
@@ -228,7 +228,7 @@
                 p.mb-4 Afectan a la EXACTITUD 
                 p.mb-0 Errores de instrumento
                 p.mb-0 Errores del método
-                p.mb-0 Errores personales
+                p.mb-0 Errores personales.
               .col-lg-6
                 h5.mb-4 Errores Aleatorios (Indeterminados)
                 p.mb-0 No tienen signo concreto  

@@ -141,8 +141,88 @@
           h4.mb-0.text-center.text-white Unidades físicas y químicas
 
     p.mb-4 Existen distintas expresiones para referirse a la concentración de una disolución, distintas relaciones cuantitativas entre cantidad de soluto, disolvente y disolución; relaciones de masas, masas y volúmenes, moles y volúmenes, etc.  
-    p.mb-4 En el siguiente esquema, se pueden apreciar las unidades de concentración más utilizadas:  
+    p.mb-4 En el siguiente esquema, se pueden apreciar las unidades de concentración más utilizadas:
 
+    .row.justify-content-center
+      .col-lg-10
+        .tabla-a.color-acento-botones 
+          table
+            thead
+              tr
+                th.medidatabla Proceso
+                <th colspan="2"> Procedimiento </th>
+            tbody
+              tr(style='background-color: #F6F6F6')
+                td 
+                  .row.justify-content-center
+                    .col-lg-10
+                      b.mb-0 % en Masa
+                    .col-lg-6
+                      figure
+                        img(src='@/assets/curso/tema6/letra1.svg', alt='Texto que describa la imagen')
+                <td colspan="2"> 
+                  .row.justify-content-center
+                    .col-lg-10
+                      b.mb-0 Molaridad
+                    .col-lg-5
+                      figure
+                        img(src='@/assets/curso/tema6/letra1_1.svg', alt='Texto que describa la imagen')
+                </td>
+              tr
+                td 
+                  .row.justify-content-center
+                    .col-lg-10
+                      b.mb-0 % en Masa
+                    .col-lg-6
+                      figure
+                        img(src='@/assets/curso/tema6/letra2.svg', alt='Texto que describa la imagen')
+                <td colspan="2"> 
+                  .row.justify-content-center
+                    .col-lg-10
+                      b.mb-0 Molaridad
+                    .col-lg-5
+                      figure
+                        img(src='@/assets/curso/tema6/letra2_1.svg', alt='Texto que describa la imagen')
+                </td>
+              tr(style='background-color: #F6F6F6')
+                td 
+                  .row.justify-content-center
+                    .col-lg-10
+                      b.mb-0 % en Masa Volumen
+                    .col-lg-6
+                      figure
+                        img(src='@/assets/curso/tema6/letra3.svg', alt='Texto que describa la imagen')
+                <td colspan="2"> 
+                  .row.justify-content-center
+                    .col-lg-10
+                      b.mb-0 Fracción Molar
+                    .col-lg-9
+                      figure
+                        img(src='@/assets/curso/tema6/letra3_1.svg', alt='Texto que describa la imagen')
+                </td>
+              tr
+                td 
+                  .row.justify-content-center
+                    .col-lg-10.mb-4
+                      b Partes por millon
+                    .col-lg-5
+                      figure
+                        img(src='@/assets/curso/tema6/letra4.svg', alt='Texto que describa la imagen')
+                td 
+                  .row.justify-content-center
+                    .col-lg-10.mb-4
+                      b Normalidad
+                    .col-lg-9
+                      figure
+                        img(src='@/assets/curso/tema6/letra4.svg', alt='Texto que describa la imagen')
+                td
+                  p.mb-0.text-center <b>Acido</b>
+                  p.mb-4.text-center H+
+                  p.mb-0.text-center <b>Base</b>
+                  p.mb-4.text-center OH-
+                  p.mb-0.text-center <b>Sal</b>
+                  p.mb-0.text-center Carga 
+                  p.mb-4.text-center Cation 
 </template>
 
 <script>

@@ -26,7 +26,7 @@
         .row.align-items-center
           .col-md-4.mb-4.mb-md-0
             h4 Calentamiento o sostén
-            p son aquellos que sirven para realizar mezclas o reacciones y que además pueden ser sometidos a calentamiento (vaso de precipitado, erlenmeyer, cristalizador, vidrio de reloj, balón, tubo de ensayo).
+            p son aquellos que sirven para realizar mezclas o reacciones y que además pueden ser sometidos a calentamiento (vaso de precipitado, <em>erlenmeyer</em>, cristalizador, vidrio de reloj, balón, tubo de ensayo).
 
           .col-md-8
             figure
